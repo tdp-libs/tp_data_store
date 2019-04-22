@@ -6,6 +6,8 @@
 #include "tp_utils/FileUtils.h"
 #include "tp_utils/DebugUtils.h"
 
+#include <unordered_map>
+
 namespace tp_data_store
 {
 

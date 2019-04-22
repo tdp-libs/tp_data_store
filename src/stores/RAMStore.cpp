@@ -7,6 +7,7 @@
 #include "tp_utils/DebugUtils.h"
 
 #include <atomic>
+#include <unordered_map>
 
 namespace tp_data_store
 {

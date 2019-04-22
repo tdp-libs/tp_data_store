@@ -6,6 +6,8 @@
 
 #include "tp_utils/MutexUtils.h"
 
+#include <unordered_map>
+
 namespace tp_data_store
 {
 namespace
